@@ -1,0 +1,97 @@
+
+@media (max-width: 480px) {
+    .carousel-caption {
+      bottom: 3%;
+    }
+  }
+  @media (max-width: 767px) {
+    .nacul {
+      width: 100%;
+    }
+    .nacul li {
+      width: 100%;
+    }
+  
+    .border-md-0 {
+      border: 0px !important;
+    }
+  }
+  @media (max-width: 1111px) {
+    .carousel-caption h1 {
+      font-size: 2.5rem;
+    }
+  }
+  @media (max-width: 992px) {
+    h1 {
+      font-size: 4.5rem;
+    }
+  
+    .carousel-caption .text-start {
+      text-align: center !important;
+    }
+  }
+  
+@media screen and (max-width: 767px) {
+    .mul {
+      width: 100%;
+    }
+  
+    .dfr {
+      font-size: 2.5rem;
+    }
+  }
+  
+@media screen and (max-width: 940px) {
+    footer .inner {
+      padding: 30px 10px;
+    }
+  }
+  
+
+@media screen and (max-width: 767px) {
+    .bordernosm {
+      border: 0px !important;
+    }
+  }
+  
+@media screen and (max-width: 940px) {
+    .big-padding {
+      padding: 30px 10px;
+    }
+  }
+  
+@media screen and (max-width: 575px) {
+    .container {
+      padding: 10px 15px;
+    }
+  }
+  
+@media screen and (max-width: 600px) {
+    .page-nav h2 {
+      font-size: 26px;
+    }
+  }
+  
+@media screen and (max-width: 992px) {
+    .page-nav {
+      background-size: auto;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .page-nav {
+      padding-top: 200px;
+      padding-bottom: 40px;
+    }
+  }
+  @media screen and (max-width: 356px) {
+    .page-nav {
+      padding-top: 200px;
+      padding-bottom: 40px;
+    }
+  }
+  
+@media screen and (max-width: 767px) {
+    .section-title {
+      padding: 5px;
+    }
+  }
